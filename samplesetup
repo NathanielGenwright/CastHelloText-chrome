@@ -1,0 +1,4 @@
+
+2
+down vote
+There is a simple way to do that with the hellotext sample (https://github.com/googlecast/CastHelloText-chrome). You can send the html by typing that into the text field.  <iframe src="http://mywebpage.com" style="width:1280px;height:720px"></iframe>
